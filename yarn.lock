@@ -137,7 +137,7 @@
   dependencies:
     tslib "^1.7.1"
 
-"@angular/language-service@^5.2.0":
+"@angular/language-service@^5.2.7":
   version "5.2.7"
   resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-5.2.7.tgz#065fc0d3f8d58b3439e1bafc10c85420e4391756"
 
